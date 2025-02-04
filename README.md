@@ -98,7 +98,7 @@ http://localhost:5173
 ---
 
 ## **👨‍💻 Desenvolvido por**
-**Paulo Cézar**  
+**Paulo César**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ppauloces/)  
 - 💻 [GitHub](https://github.com/ppauloces/)  
 
