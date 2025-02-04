@@ -97,8 +97,3 @@ http://localhost:5173
 **Paulo César**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ppauloces/)  
 - 💻 [GitHub](https://github.com/ppauloces/)  
-
----
-
-### **🚀 O projeto está pronto para ser avaliado pelo Tech Leader!**
-Caso precise de alguma melhoria ou explicação extra, só avisar! 😃🔥
