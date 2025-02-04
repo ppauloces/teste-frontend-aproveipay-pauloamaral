@@ -1,7 +1,3 @@
-Aqui está o **README.md técnico** pronto para copiar e colar. Ele contém todas as informações necessárias para um **Tech Leader** entender rapidamente como o projeto foi feito e quais tecnologias foram usadas.  
-
----
-
 ## **🛒 Checkout com Data Table e Kanban**
 **Projeto desenvolvido para simular um fluxo de checkout com pagamento, gestão de produtos e acompanhamento do status de entrega via Kanban interativo.**
 
